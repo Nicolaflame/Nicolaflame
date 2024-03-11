@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolaflame
 - 👀 I’m interested in gaining more knowledge in data science
-- 🌱 I’m currently learning SQL, JavaScript, & Python
+- 🌱 I’m currently learning HTML, CSS, JS, SQL, JavaScript, & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

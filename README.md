@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nicolaflame
-- 👀 I’m interested in gaining more knowledge in data science
-- 🌱 I’m currently learning HTML, CSS, JS, SQL, JavaScript, & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Nick Whited
+- 👀 Seeking Junior Analyst roles
+- 🧠 Knowledgable in data analytics, SQL, and R Programming
+- 🌱 Honing my skills in HTML, CSS, and JS. Currently Learning Python
+- 📫 hirenick.netlify.com
 
 <!---
 Nicolaflame/Nicolaflame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
